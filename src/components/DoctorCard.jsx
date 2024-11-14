@@ -40,7 +40,7 @@ const handleModal=()=>{
         {ele?.email}
       </p>
       <p className="fees">
-        <strong>Fees per consultation: </strong>$ {ele?.fees}
+        <strong>Fees per consultation: </strong>₹{ele?.fees}
       </p>
       <p className="phone">
         <strong>Phone: </strong>
